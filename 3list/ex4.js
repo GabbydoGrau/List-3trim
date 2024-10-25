@@ -1,5 +1,5 @@
 // idade de nadador...
-let idade = prompt("Qual a idade do nadador?:");
+let idade = prompt("Idade do nadador?:");
 
 // Classifica o nadador
 if (idade >= 5 && idade <= 7) {

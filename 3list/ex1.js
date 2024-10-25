@@ -3,7 +3,7 @@
     const not2 = parseFloat(prompt("Segunda nota:"));
     const not3 = parseFloat(prompt("Terceira nota:"));
 
-    const media = (not1 + not2 + not3) / 3; //ou pela nota máxima 6?
+    const media = (not1 + not2 + not3) / 3; //ou pela nota máxima 6
     console.log("A média é: " media);
 
     if (media >= 6) {
@@ -11,4 +11,3 @@
     } else {
         console.log("Reprovado");
     }
-}

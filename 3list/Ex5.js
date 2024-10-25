@@ -9,3 +9,4 @@ if (n1>=n2 && n1>=n3){
   console.log("O maior é:", n2)
 } else {
 console.log("O maior é:", n3);
+}
